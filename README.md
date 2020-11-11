@@ -5,6 +5,7 @@ Ekşisözlük debeleri için Python kullanrak kelime bulutu oluşturma
 ![Kelime Bulutu](debe_kelime_bulutu.png?raw=true "Kelime bulutu")
 
 Jupyter notebook kullanarak ipynb dosyasını açabilirsiniz (github uzerinden de dosyaya tıklayarak görebilirsiniz).
+[Kelime bulutu Jupyter notebook](./debe_kelime_bulutu_notebook.ipynb)
 
 `pip3 install jupyter`
 
