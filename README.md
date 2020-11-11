@@ -1,4 +1,4 @@
-# debewordcloud
+# Python ile Debe Kelime Bulutu
 
 Ekşisözlük debeleri için Python kullanrak kelime bulutu oluşturma
 
