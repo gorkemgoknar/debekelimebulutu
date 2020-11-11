@@ -6,31 +6,31 @@ Ekşisözlük debeleri için Python kullanrak kelime bulutu oluşturma
 
 Jupyter notebook kullanarak ipynb dosyasını açabilirsiniz (github uzerinden de dosyaya tıklayarak görebilirsiniz).
 
-pip3 install jupyter
+`pip3 install jupyter`
 
 ile kurduktan sonra 
 
 bu dosyalarin bulundugu dizinden 
 
-jupyter notebook 
+`jupyter notebook`
 
 
 
 Kullanılan python kütüphaneleri:
 
-yaml
+`yaml
 bs4
 pandas
 httplib2
 wordcloud
-jupyter
+jupyter`
 
 Kurmak için Örnek:
-pip3 install yaml
+`pip3 install yaml`
 
 veya githubdan repository indirdiyseniz
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 
