@@ -1,0 +1,6 @@
+jupyter
+yaml
+bs4
+pandas
+httplib2
+wordcloud
