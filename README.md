@@ -1,6 +1,6 @@
 # Python ile Debe Kelime Bulutu
 
-Ekşisözlük debeleri için Python kullanrak kelime bulutu oluşturma
+Ekşisözlük debeleri için Python kullanarak kelime bulutu oluşturma
 
 ![Kelime Bulutu](debe_kelime_bulutu.png?raw=true "Kelime bulutu")
 
